@@ -10,12 +10,13 @@
 }
 
 .small-card_photo{
-    width: 150px;
-    min-width: 150px;
-    margin-right: 20px;
+    width: 200px;
+    min-width: 200px;
+    margin-bottom: 15px;
 }
 
 .small-card_title{
+    margin-left: 40px;
     display: flex;
     justify-content: center;
     align-items: center;
